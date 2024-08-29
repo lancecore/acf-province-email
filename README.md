@@ -1,4 +1,4 @@
-# A plugin for the Canadian Covid Society's Clean Air in Schools campaign
+# A WordPress plugin for the Canadian Covid Society's Clean Air in Schools campaign
 
 ## What it does
 Takes data from an options page to generate a select element with provinces and territories as the options.
